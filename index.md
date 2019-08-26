@@ -14,6 +14,11 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+## Types of pets
+- Dogs
+- Cats
+- Fish
+- Birds
 
 - Bulleted
 - List
